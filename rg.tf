@@ -3,7 +3,7 @@ resource "azurerm_resource_group" "alpha" {
   location = "westus"
 }
 
-resource "azurerm_resource_group" "alpha1" {
-  name     = "alpha_rg1"
+resource "azurerm_resource_group" "alpha4" {
+  name     = "alpha_rg4"
   location = "westus"
 }
